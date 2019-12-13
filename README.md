@@ -36,7 +36,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|[MMP.exe]|Music Management Packages |
+|MMP.exe|Music Management Packages |
 
 
 ------
