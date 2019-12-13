@@ -17,9 +17,9 @@ The Software offers a new Way for better Creating WAV packages. That means grant
 
 Principal Software Benefits:
 
-      - Flexible and Powerful resource cost planning and Tracking.
+      - Flexible and Powerful User Interface.
 
-      - Efficient Project and resource Planning, master plans.
+      - Efficient Packages and resource Planning,storing.
 
       - Strong resource Management and capacity Planning.
       
