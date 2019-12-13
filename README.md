@@ -42,7 +42,10 @@ Principal Software Benefits:
 ## To Install the Software:
 
 ### Install application 
-Download Link : https://github.com/walwalwalides/383/releases/download/383_Client/S383_Client.7z
+Is it better to install Postgresql before installing the application 
+
+Download Link For Postgesql :
+Download Link For MMP: https://github.com/walwalwalides/383/releases/download/383_Client/S383_Client.7z
 
 
 
