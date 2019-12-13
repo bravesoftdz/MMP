@@ -2,7 +2,7 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![](383.png)
 
-`383` is a complete Software Solution for Management Music Packages format WAV.
+`MMP` is a complete Software Solution for Management Music Packages Format WAV.
 
 
 **Authors:**  *WalWalWalides*
