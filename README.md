@@ -1,6 +1,6 @@
 # MMP
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
-![](MMP.png)
+![](MMP_256.png)
 
 `MMP` is a complete Software Solution for Management Music Packages Format WAV.
 
