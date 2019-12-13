@@ -32,7 +32,7 @@ Principal Software Benefits:
 
 ## Contains
 
-| Module | Client Side | 
+| Module | Name | 
 | --- | --- |
 |[MMP.exe](https://github.com/walwalwalides/MMP/tree/master/)|Music Management Packages |
 
