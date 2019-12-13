@@ -24,6 +24,8 @@ Principal Software Benefits:
       - Strong resource Management and capacity Planning.
       
       - Supports data access to PostgreSQL tables and views.
+      
+      - Backup and Recovery.
 
 
     
@@ -34,7 +36,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|[MMP.exe](https://github.com/walwalwalides/MMP/tree/master/)|Music Management Packages |
+|[MMP.exe]|Music Management Packages |
 
 
 ------
