@@ -1,6 +1,6 @@
 # MMP
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
-![](MMP_256.png)
+![](mmp_256.png)
 
 `MMP` is a complete Software Solution for Management Music Packages Format WAV.
 
@@ -34,7 +34,7 @@ Principal Software Benefits:
 
 | Module | Client Side | 
 | --- | --- |
-|[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)|Employees Task Management  |
+|[MMP.exe](https://github.com/walwalwalides/MMP/tree/master/)|Music Management Packages |
 
 
 ------
@@ -42,7 +42,10 @@ Principal Software Benefits:
 ## To Install the Software:
 
 ### Install application 
-Download Link : https://github.com/walwalwalides/383/releases/download/383_Client/S383_Client.7z
+Is it better to install Postgresql before installing the application 
+
+Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+Download Link For MMP: https://github.com/walwalwalides/383/releases/download/383_Client/S383_Client.7z
 
 
 
